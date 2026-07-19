@@ -1,3 +1,5 @@
+![THIRI logo animation](thiri-logo.gif)
+
 # Dennison Blackett — BluesPrince 🎷
 
 Saxophonist who builds. I make **[THIRI](https://thiri.ai)** — a deterministic music-theory engine for the AI era.
